@@ -7,6 +7,8 @@
 | **Duplicados** | Registros idénticos repetidos, lo que sesga el modelo. | Dos filas con el mismo ID y datos. |
 | **Tipos incorrectos** | Datos almacenados con un formato inadecuado. | La edad guardada como texto `"25"` en lugar de número `25`. |
 | **Valores atípicos** | Valores extremos que se alejan del comportamiento habitual. | Una edad registrada como `250` años. |
+## Titanic
+![alt text](image-7.png)
 ## Vista previa de datos
 ![alt text](image.png)
 ## Datos nulos
